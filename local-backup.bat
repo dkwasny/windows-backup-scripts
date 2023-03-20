@@ -1,0 +1,1 @@
+Robocopy.exe D:\ F:\ /xa:SH /xd "$RECYCLE.BIN" /mir
